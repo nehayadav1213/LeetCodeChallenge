@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0090-subsets-ii](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0120-triangle) |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
