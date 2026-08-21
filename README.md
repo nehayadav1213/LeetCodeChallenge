@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0090-subsets-ii) |
 ## Dynamic Programming
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0029-divide-two-integers) |
 ## Sliding Window
 |  |
 | ------- |
