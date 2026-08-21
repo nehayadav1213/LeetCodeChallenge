@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0043-multiply-strings) |
 ## Trie
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0043-multiply-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
