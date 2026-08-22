@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0060-permutation-sequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/nehayadav1213/LeetCodeChallenge/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
